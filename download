@@ -1,0 +1,34 @@
+# Environment variables for configuration
+
+# Database configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=financial_db
+DB_USER=admin
+DB_PASSWORD=secret
+
+# API configuration
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here
+
+# SAP OData connection configuration
+SAP_ODATA_BASE_URL=https://your-sap-server.com/sap/opu/odata/sap/your_service
+SAP_ODATA_USERNAME=CHANGE_ME
+SAP_ODATA_PASSWORD=CHANGE_ME
+SAP_ODATA_CLIENT=100
+
+# Application settings
+DEBUG=True
+LOG_LEVEL=INFO
+
+# Direct SAP connection and News API
+SAP_USERNAME=your_sap_username
+SAP_PASSWORD=your_sap_password
+SAP_BASE_URL=https://your-sap-endpoint
+SAP_CLIENT=001
+CURRENTS_API_KEY=your_currents_api_key
+API_KEY=your_azure_openai_key
+AZURE_ENDPOINT=https://your-azure-endpoint
+MODEL_DEPLOYMENT_NAME=your_deployment_name
+LOGICAPP_ENDPOINT=https://your-logic-app-url
+EMAIL_RECIPIENT=recipient@example.com
