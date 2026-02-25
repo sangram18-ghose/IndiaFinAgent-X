@@ -1,4 +1,4 @@
-# CFO Financial Insight Dashboard — AI-Driven Financial Engineering Agentic System
+# Financial Insight Dashboard — AI-Driven Financial Engineering Agentic System
 
 ## Overview
 
@@ -524,8 +524,3 @@ If you use this project in your research or work, please cite:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🔗 Related Repositories
-
-- [📌 AI-Financial-Engineering-Agentic-System (OpenAI SDK version)](https://github.com/amitlals/AI-Financial-Engineering-Agentic-System)
-- [📌 Stock-Analysis-AutoGen-Multi-Agent](https://github.com/amitlals/Stock-Analysis-AutoGen-Multi-Agent)
